@@ -10,6 +10,5 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git lienol-op https://github.com/Lienol/openwrt-package
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
-src-git openclash https://github.com/vernesong/OpenClash
 src-git oap https://github.com/destan19/OpenAppFilter
 src-git dnsfilter https://github.com/garypang13/luci-app-dnsfilter
